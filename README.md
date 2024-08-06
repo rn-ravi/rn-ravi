@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying ... Engineering 
+- 🔭 I’m currently studying ... Myself😅
 - 🌱 I’m currently learning ... Assembly Language
 - 👯 I’m looking to collaborate on ... RISC-V projects
 - 🤔 I’m looking for guidance on  ... AI on hardware 
